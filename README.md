@@ -45,15 +45,15 @@ I am beginner back-end software engineer and senior software QA engineer at Ecom
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />&nbsp;
 
 ## 📫 Reach me via: 
-<a href="https://t.me/c0mr8">
+<a href="https://t.me/c0mr8" title="Contact me via Telegram">
   <img height="32" width="32" src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" />
 </a>
 
-<a href="mailto: a1.job@mail.ru">
+<a href="mailto: a1.job@mail.ru" title="Send me email">
   <img height="32" width="32" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/evgenii-m-699605212/">
+<a href="https://www.linkedin.com/in/evgenii-m-699605212/" title="Look at my LinkedIn profile">
   <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />
 </a>
 
