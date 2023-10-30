@@ -57,16 +57,23 @@ I am beginner back-end software engineer and senior software QA engineer at Ecom
   <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />
 </a>
 
- 
-  
+## Achivements
+[![LeetCode Stats](https://leetcode.card.workers.dev/c0mr8?theme=nord&font=milonga&extension=null)](https://leetcode.com/c0mr8/)
+
+[![CodeWars](https://www.codewars.com/users/c0mr8/badges/small)](https://www.codewars.com/users/c0mr8)
+
 <hr>
  
 <p>
   <a href="https://github.com/comr8">
-    <img src="https://github-readme-stats.vercel.app/api?username=comr8&hide_border=true&show_icons=true" alt="comr8 stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=comr8&hide_border=true&show_icons=true&theme=radical" alt="comr8 stats">
   </a>
 </p>
 </div>
+
+
+
+
 <!--
 **comr8/comr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
