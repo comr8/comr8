@@ -10,8 +10,8 @@ I am beginner back-end software engineer and senior software QA engineer at Ecom
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />&nbsp;-->
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
+<!--<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;-->
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />&nbsp;
 
@@ -26,15 +26,15 @@ I am beginner back-end software engineer and senior software QA engineer at Ecom
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;-->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/putty/putty-original.svg" />&nbsp;-->
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />&nbsp;
-<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" />&nbsp;
-<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" />&nbsp;
-<img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/putty/putty-original.svg" />&nbsp;
 <img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original-wordmark.svg" />&nbsp;
 
 
